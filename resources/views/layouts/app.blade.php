@@ -117,7 +117,7 @@
         <!-- Grid container -->
         <div class="container-fluid">
           <!-- Section: Social media -->
-          <section class="mb-2">
+          <section class="mb-0.5">
             <!-- Facebook -->
             <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/azffoysal/" role="button"
               ><i class="fab fa-facebook-f"></i
@@ -153,7 +153,7 @@
         <!-- Grid container -->
 
         <!-- Copyright -->
-        <div class="text-center p-2" style="background-color: rgba(0, 0, 0, 0.2);">
+        <div class="text-center p-1" style="background-color: rgba(0, 0, 0, 0.2);">
            © 2021 Copyright:
     <a class="text-light" href="https://www.linkedin.com/in/abuzehadfoysal/">Abu Zehad Foysal</a>
         </div>
